@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="94909ef8-de03-4477-b3ed-670178664401" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +118,19 @@
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
       <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
     </include_path>
   </component>
   <component name="ProjectId" id="1fTlBClIuMKkWRwX1qkV2xTqWDf" />
@@ -143,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596249827742</updated>
       <workItem from="1596249829286" duration="572000" />
-      <workItem from="1596250426287" duration="2080000" />
+      <workItem from="1596250426287" duration="2859000" />
     </task>
     <servers />
   </component>
@@ -166,9 +182,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="27" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596250537362" />
-    <state x="983" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1596251772093">
+    <state x="983" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1596253296699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="983" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596251772093" />
+    <state x="983" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596253296699" />
   </component>
 </project>
